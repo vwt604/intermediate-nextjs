@@ -16,6 +16,7 @@ git clone https://github.com/Hendrixer/intermediate-nextjs.git
 cd intermediate-nextjs
 git checkout step/0
 npm install
+
 ```
 
 ## Turso Setup
